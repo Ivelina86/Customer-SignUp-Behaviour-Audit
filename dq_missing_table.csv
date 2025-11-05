@@ -1,0 +1,11 @@
+,missing_count,missing_pct
+email,34,11.33
+region,30,10.0
+age,19,6.33
+marketing_opt_in,10,3.33
+name,9,3.0
+source,9,3.0
+plan_selected,8,2.67
+gender,8,2.67
+customer_id,2,0.67
+signup_date,2,0.67

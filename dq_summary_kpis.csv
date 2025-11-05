@@ -1,0 +1,2 @@
+Rows Before Cleaning,Rows After Cleaning,Duplicate customer_id Removed,Duplicate email Removed,Invalid signup_date Dropped,Missing customer_id Dropped,Remaining Missing (All Columns),Date Range (min → max),Week Span (approx),Age Mean / Median
+300,300,0,1,7,2,131,2024-01-02 → 2024-12-10,49,36.14 / 34.0
